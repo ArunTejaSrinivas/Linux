@@ -1,8 +1,23 @@
 What is Linux?
-Linux is a operating system, and it is open source OS  
+* Linux is an operating system, just like Windows or macOS, and it's free, open-source.
+
+* It's used to run everything from personal computers to servers, smartphones (like Android), 
+  and even supercomputers.
+
+* Linux Distributions: 
+    Debian-based :
+    ------------
+    Ubuntu
+    Linux mint
+    Kali Linux
+    
+    Red Hat-based :
+    -------------
+    CentOs
+    Fedora
 
 why Linux?
--> free,
--> stable
--> secure
--> Open source
+-> free and Open Source
+-> secure, 
+-> flexibility, 
+-> and reliability.
