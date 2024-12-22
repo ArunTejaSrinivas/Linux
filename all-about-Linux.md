@@ -1,8 +1,6 @@
-What is Linux?
+### What is Linux?
 * Linux is an operating system, just like Windows or macOS, and it's free, open-source.
-
-* It's used to run everything from personal computers to servers, smartphones (like Android), 
-  and even supercomputers.
+* It's used to run everything from personal computers to servers, smartphones (like Android), and even supercomputers.
 
 * Linux Distributions: 
     Debian-based :
@@ -21,6 +19,14 @@ why Linux?
 -> secure, 
 -> flexibility, 
 -> and reliability.
+
+```
++------------------+       +------------------+       +------------------+        +------------------+       +------------------+ 
+|    BIOS/UEFI     | ----> |   Bootloader     | ----> |     Kernel       |  --->  |   Init/Systemd   | ----> |  User Login       |
++------------------+       +------------------+       +------------------+        +------------------+       +------------------+    
+                       
+
+```
 
 
 Linux Directory Structure
