@@ -2,17 +2,15 @@
 * Linux is an operating system, just like Windows or macOS, and it's free, open-source.
 * It's used to run everything from personal computers to servers, smartphones (like Android), and even supercomputers.
 
-* Linux Distributions: 
-    Debian-based :
-    ------------
-    Ubuntu
-    Linux mint
-    Kali Linux
+### Linux Distributions: 
+    * Debian-based :
+        - Ubuntu
+        - Linux mint
+        - Kali Linux
     
-    Red Hat-based :
-    -------------
-    CentOs
-    Fedora
+    * Red Hat-based :
+        - CentOs
+        - Fedora
 
 ### why Linux?
 - free and Open Source
@@ -21,11 +19,8 @@
 - and reliability.
 
 ```
-+------------------+       +------------------+       +------------------+        +------------------+       +------------------+ 
-|    BIOS/UEFI     | ----> |   Bootloader     | ----> |     Kernel       |  --->  |   Init/Systemd   | ----> |  User Login       |
-+------------------+       +------------------+       +------------------+        +------------------+       +------------------+    
-                       
-
+Linux boot process:
+1. Power On --> 2. BIOS/UEFI --> 3. Bootloader --> 4. Kernel --> 5. Init/Systemd --> 6. Login
 ```
 
 ### Linux Directory Structure
